@@ -1,4 +1,6 @@
 <html>
+<title><color=#66ccff>柠檬汁服务器</title>
+<head>
 <size=60><color=#FFB6C1>柠檬汁服务器，管理和谐，插件好玩 时不时送福利！欢迎游玩</color></size>
 <size=40><color=#00FFFF	>QQ群：456082820</color>
 
@@ -17,3 +19,4 @@
 11.本服原为老八撤硕服</color>
 </size>
 <size=80><color=#FF0000>柠檬汁服务器 email:1844002667@qq.com QQ群456082820 爱发电：https://afdian.net/@scpsllaoba 腐竹QQ1844002667</color></size>
+</head>
